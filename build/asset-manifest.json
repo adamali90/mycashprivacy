@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b883e6db.css",
+    "main.js": "/static/js/main.a65de03e.js",
+    "static/js/787.f74faeeb.chunk.js": "/static/js/787.f74faeeb.chunk.js",
+    "static/media/mycashlogosml.png": "/static/media/mycashlogosml.8e3006c0651043873341.png",
+    "index.html": "/index.html",
+    "main.b883e6db.css.map": "/static/css/main.b883e6db.css.map",
+    "main.a65de03e.js.map": "/static/js/main.a65de03e.js.map",
+    "787.f74faeeb.chunk.js.map": "/static/js/787.f74faeeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b883e6db.css",
+    "static/js/main.a65de03e.js"
+  ]
+}
